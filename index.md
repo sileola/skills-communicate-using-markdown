@@ -20,3 +20,8 @@ systemctl start httpd
 systemctl enable httpd
 echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
