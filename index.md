@@ -6,3 +6,6 @@
 ###### This is Header 6
 
 This is to test for headings in Markdown
+
+
+![Image of Yaktocat](https://github.com/sileola/images/blob/main/markdown-image.png?raw=true 'Image of Yaktocat')
